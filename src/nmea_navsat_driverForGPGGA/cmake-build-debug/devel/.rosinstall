@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lab307/wk_scout/src/nmea_navsat_driver/cmake-build-debug/devel/setup.sh

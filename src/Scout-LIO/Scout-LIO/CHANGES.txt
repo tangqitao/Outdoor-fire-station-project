@@ -1,0 +1,14 @@
+2021.11.1 
+  增加dev_zqg分支
+  忽略.vscode下的文件件，更新.gitignore
+  修复rviz可视化gps里程计bug
+2021.11.5
+  加入rs_to_velodyne文件到功能包中
+  把glog头文件写入include目录
+  imu内参标定
+2021.11.16
+  投影：rosrun pcd2pgm pcd2topic
+  存图：rosrun map_server map_saver
+2021.11.23
+  更加平滑的初始化策略
+  避免刚启动时的帧间回环约束
